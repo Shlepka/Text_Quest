@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="look_at_you">Жанр- мистика, приключения \nУспешных концовок-1 \nПроигрышных концовок-2 \nСложность-средняя \nПротеженность-длинная \nВариативность выбора-высокая\n\nОписание: \nВы встречаете неопознанный космический корабль, члены экпипажа которого беследно пропали. Корабль судя по всему перевозил контрабанду: ценности,артефакты, оружие и....статуи, вот только они что тут делают? И почему все зеркала на корабле разбиты? Дам вам лишь один совет: Не промаргайте свою смерть </string>
+    <string name="app_name">TextQuest</string>
+    <string name="cash">Жанр- исторические \nУспешных концовок-2 \nПроигрышных концовок-5 \nСложность-высокая \nПротеженность-длинная \nВариативность выбора-высокая\n\nОписание: \nЭто реальная история, произошедшая в 1963 году. Вам предстоит ограбить почтовый поезд, в котором находится 60 миллионов долларов. Сможете ли вы повторить то, что сделал Ронни Биггз?</string>
+    <string name="paralel">Жанр- фантастика \nУспешных концовок-3 \nПроигрышных концовок-2 \nСложность-средняя \nПротеженность-умеренная \nВариативность выбора-средняя\n\nОписание: \nПараллельные миры...как загадочно данное явление, существует ли миры, схожие с нашим? И что с ними произойдет, если мы вдруг сможем перемещаться между ними? </string>
+
+    <string name="quest_one"> Они смотрят на тебя </string>
+    <string name="welcome">        Добро
+        пожаловать </string>
+    <string name="quest_two"> Параллельные миры </string>
+    <string name="quest_tri"> Охотники за золотом </string>
+    <string name="menu"> Выберите квест
+ (нажмите на текст) </string>
+    <string name="go"> Начать </string>
+    <string name="list_one">Мистика,Приключения</string>
+    <string name="list_two"> Исторические </string>
+    <string name="list_three"> Фантастика </string>
+    <string name="textview_tyfragment">Второй фрагмент</string>
+    <string name="title_activity_test">test</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

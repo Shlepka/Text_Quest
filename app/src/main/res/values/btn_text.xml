@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="beggin_btn">Продолжить</string>
+    <string name="btn_oneofragment"> Да, пусть Амалия узнает, что экипаж корабля  забыл в зоне 51 </string>
+    <string name="btn_onetfragment"> Сначала нам надо доложить о нем </string>
+    <string name="btn_trifragment"> Проверить груз </string>
+    <string name="btn_triofragment"> Проверить уборные </string>
+    <string name="btn_fourfragment"> Проверить груз </string>
+    <string name="btn_fourofragment"> Проверить уборные </string>
+    <string name="btn_fifefragment"> отправиться на склад </string>
+    <string name="btn_sixfragment"> Попытаться спасити Оливера </string>
+    <string name="btn_sixofragment"> Убегать
+        
+
+    </string>
+    <string name="recall_key"> Вспомнить ключ доступа</string>
+    <string name="btn_key"> Ввести ключ доступа </string>
+    <string name="btn_pasinput"> Проверить каюту капитана </string>
+    <string name="btn_sixtfragment"> Осмотреть комнаты  </string>
+    <string name="btn_etfragment"> - Что там? (Посмотреть)  </string>
+    <string name="btn_etofragment"> - Попробовать атаковать   </string>
+    <string name="btn_nefragment"> ( продолжение следует) </string>
+    <string name="btn_plotOne"> Осмотреть поближе </string>
+    <string name="btn_plotTwo">  Этого достаточно, пошли Оливер </string>
+    <string name="btn_plottri">  - Что там?  </string>
+    <string name="btntwo_plottri">  - Надо убираться отсюда  </string>
+    <string name="btn_plotfive">  Попытаться спасти Оливера </string>
+    <string name="btntwo_plotfive">  Убегать </string>
+    <string name="btn_plotsix">  Продолжение следует </string>
+    <string name="btn_ploteight">  Как вдруг </string>
+    <string name="btn_plotnine">  Отставить,Уильям, оставайся на корабле.Это приказ!
+ </string>
+    <string name="btn_plotfour"> > Бежать дальше</string>
+    <string name="btn_plotfourtwo"> > Остановаиться и взглянуть на статую</string>
+    <string name="skip"> Продолжить </string>
+    <string name="btn_scenetn"> Осталось 10 метров</string>
+    <string name="btn_plottwo"> Остановаиться и взглянуть на статую</string>
+    <string name="btntwo_plottwo"> Бежать дальше </string>
+    <string name="btn_escapeone"> Попытаться встать </string>
+    <string name="btn_escapetwo"> Стоп, а где она сейчас? Неужели испугалась и убе.... </string>
+    <string name="btn_escapefour"> Взглянть на статую</string>
+    <string name="btn_escapefive"> Двигатсья к телепорту </string>
+    <string name="btn_salivationone"> Двигатсья к телепорту </string>
+    <string name="btn_salivationtwo"> Свет погас </string>
+    <string name="btn_salivationthree"> Свет включился </string>
+    <string name="btn_salivationfour"> Идти в сторону телепорта  </string>
+    <string name="btntwo_salivationfour"> Достать фонарик  </string>
+    <string name="btn_salivationfive"> Свет погас  </string>
+    <string name="btn_helpone"> Обернутсья </string>
+    <string name="btn_helptwo"> Двигаться к телепорту </string>
+    <string name="btn_helpthree"> И вот</string>
+    <string name="btn_helpfour"> Амалия, свяжись с правительством</string>
+    <string name="btntwo_helpfour"> Полетели домой </string>
+    <string name="btn_helpsix"> Гаснет свет </string>
+
+    <string name="again"> Начать с самого начала  </string>
+    <string name="btn_restart"> Начать квест заново </string>
+    <string name="go_menu"> Выйти в главное меню</string>
+    <string name="control_point"> Начать с контрольной точке </string>
+    <string name="btn_endquest"> Закончить квест</string>
+
+</resources>
